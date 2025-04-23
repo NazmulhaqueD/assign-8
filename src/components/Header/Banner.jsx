@@ -6,7 +6,7 @@ const Banner = () => {
             <div className='max-w-[1100px] mx-auto'>
                 <div>
                     <h1 className='text-2xl md:text-5xl font-bold text-center'>Dependable Care, Backed by Trusted Professionals.</h1>
-                    <p className='py-4 px-10 text-center'>Our platform connects you with verified, experienced doctors across various specialties — all at your convenience. Whether it's a routine checkup or urgent consultation, book appointments in minutes and receive quality care you can trust.</p>
+                    <p className='py-3 px-10 text-center'>Our platform connects you with verified, experienced doctors across various specialties — all at your convenience. Whether it's a routine checkup or urgent consultation, book appointments in minutes and receive quality care you can trust.</p>
                     <div className='flex gap-6 my-8'>
                         <input className='border rounded-2xl w-2/3 bg-white' type="text" />
                         <button className='btn bg-[#176AE5] text-white rounded-2xl'>Search Now</button>
