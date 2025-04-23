@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "doctorImage": "https://i.ibb.co.com/Ngc3B6Ct/IMG-20230424-WA0007.jpg",
+      "name": "Dr. Ahsan Habib",
+      "education": "MBBS, FCPS (Medicine)",
+      "speciality": "Cardiologist",
+      "experience": "10 years",
+      "registrationNumber": "DHA-1001",
+      "available": [
+        { "day": "Sunday", "time": "10:00 AM - 1:00 PM" },
+        { "day": "Wednesday", "time": "3:00 PM - 6:00 PM" }
+      ]
+    },
+    {
+      "id": 2,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Rehnuma Akter",
+      "education": "MBBS, MD (Neurology)",
+      "speciality": "Neurologist",
+      "experience": "7 years",
+      "registrationNumber": "DHA-1002",
+      "available": [
+        { "day": "Monday", "time": "11:00 AM - 2:00 PM" },
+        { "day": "Thursday", "time": "4:00 PM - 7:00 PM" }
+      ]
+    },
+    {
+      "id": 3,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Shafiq Ahmed",
+      "education": "MBBS, MS (Surgery)",
+      "speciality": "General Surgeon",
+      "experience": "12 years",
+      "registrationNumber": "DHA-1003",
+      "available": [
+        { "day": "Tuesday", "time": "9:00 AM - 12:00 PM" },
+        { "day": "Friday", "time": "2:00 PM - 5:00 PM" }
+      ]
+    },
+    {
+      "id": 4,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Mehnaz Sultana",
+      "education": "MBBS, FCPS (Gynecology)",
+      "speciality": "Gynecologist",
+      "experience": "8 years",
+      "registrationNumber": "DHA-1004",
+      "available": [
+        { "day": "Saturday", "time": "10:00 AM - 2:00 PM" },
+        { "day": "Monday", "time": "1:00 PM - 4:00 PM" }
+      ]
+    },
+    {
+      "id": 5,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Kamrul Hasan",
+      "education": "MBBS, MD (Dermatology)",
+      "speciality": "Skin Specialist",
+      "experience": "6 years",
+      "registrationNumber": "DHA-1005",
+      "available": [
+        { "day": "Tuesday", "time": "12:00 PM - 3:00 PM" },
+        { "day": "Thursday", "time": "3:00 PM - 6:00 PM" }
+      ]
+    },
+    {
+      "id": 6,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Laila Haque",
+      "education": "MBBS, FCPS (Pediatrics)",
+      "speciality": "Child Specialist",
+      "experience": "9 years",
+      "registrationNumber": "DHA-1006",
+      "available": [
+        { "day": "Sunday", "time": "9:00 AM - 1:00 PM" },
+        { "day": "Wednesday", "time": "2:00 PM - 5:00 PM" }
+      ]
+    },
+    {
+      "id": 7,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Imran Mahmud",
+      "education": "MBBS, FCPS (Orthopedics)",
+      "speciality": "Orthopedic Surgeon",
+      "experience": "11 years",
+      "registrationNumber": "DHA-1007",
+      "available": [
+        { "day": "Monday", "time": "11:00 AM - 3:00 PM" },
+        { "day": "Thursday", "time": "1:00 PM - 4:00 PM" }
+      ]
+    },
+    {
+      "id": 8,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Nusrat Jahan",
+      "education": "MBBS, MD (Nephrology)",
+      "speciality": "Kidney Specialist",
+      "experience": "7 years",
+      "registrationNumber": "DHA-1008",
+      "available": [
+        { "day": "Tuesday", "time": "10:00 AM - 2:00 PM" },
+        { "day": "Friday", "time": "3:00 PM - 6:00 PM" }
+      ]
+    },
+    {
+      "id": 9,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Omar Faruk",
+      "education": "MBBS, MD (Oncology)",
+      "speciality": "Cancer Specialist",
+      "experience": "10 years",
+      "registrationNumber": "DHA-1009",
+      "available": [
+        { "day": "Sunday", "time": "11:00 AM - 2:00 PM" },
+        { "day": "Wednesday", "time": "4:00 PM - 7:00 PM" }
+      ]
+    },
+    {
+      "id": 10,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Farhana Khan",
+      "education": "MBBS, FCPS (ENT)",
+      "speciality": "ENT Specialist",
+      "experience": "6 years",
+      "registrationNumber": "DHA-1010",
+      "available": [
+        { "day": "Monday", "time": "10:00 AM - 1:00 PM" },
+        { "day": "Thursday", "time": "3:00 PM - 6:00 PM" }
+      ]
+    },
+    {
+      "id": 11,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Arif Hossain",
+      "education": "MBBS, MD (Psychiatry)",
+      "speciality": "Psychiatrist",
+      "experience": "5 years",
+      "registrationNumber": "DHA-1011",
+      "available": [
+        { "day": "Tuesday", "time": "11:00 AM - 2:00 PM" },
+        { "day": "Friday", "time": "4:00 PM - 7:00 PM" }
+      ]
+    },
+    {
+      "id": 12,
+      "doctorImage": "https://i.ibb.co.com/hxmXTmYm/doctor-sample.png",
+      "name": "Dr. Tasnim Rahman",
+      "education": "MBBS, MS (Ophthalmology)",
+      "speciality": "Eye Specialist",
+      "experience": "9 years",
+      "registrationNumber": "DHA-1012",
+      "available": [
+        { "day": "Saturday", "time": "10:00 AM - 2:00 PM" },
+        { "day": "Wednesday", "time": "2:00 PM - 5:00 PM" }
+      ]
+    }
+  ]
+  
